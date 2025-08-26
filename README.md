@@ -9,7 +9,13 @@ This lesson is about learning the basic codes and functions in Python. It also s
 ## Alphabet Soup Problem
 Create a function that takes a string and returns a string with its letters in alphabetical order.
 
-### Example: Emoticon Converter
+### Example:
 ```python
-print(emoticon_converter("She felt sad and mad"))
-# Output: She felt :( and >:(
+def alphabet_soup(text):
+    return ''.join(sorted(text))
+
+print(alphabet_soup("hello"))
+# Output: ehllo
+
+print(alphabet_soup("hacker"))
+# Output: acehkr
