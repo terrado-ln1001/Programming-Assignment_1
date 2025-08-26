@@ -6,3 +6,4 @@ This lesson is about learning the basic codes and functions in Python. It also s
 1. Identify the basic codes and functions in Python programming.  
 2. Apply the different codes and functions in creating a Python program.
 
+###### The
