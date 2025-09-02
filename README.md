@@ -20,9 +20,7 @@ print(alphabet_soup("hello"))
 print(alphabet_soup("hacker"))
 # Output: acehkr
 ```
-
-### 
-
+------------------------------------------------------
 ## Emoticon Problem
 The problem is asking to create a function that takes a sentence as input and replaces the words smile, grin, sad, and mad with their matching emoticons, then returns the updated sentence. For example, the word 'smile' is replaced to the emoticon ':)', so that whenever the words appear in a sentence, they are shown with their corresponding emoticons.”
 
@@ -41,7 +39,7 @@ print (str("Make me smile"))
 print (str("I am mad"))
 # Output: I am >:(
 ```
-
+------------------------------------------------------
 ## Unpackin List Problem
 The problem asked to take the list of numbers and split it to three variables, where the first variable stores the first element of the list, the last variable stores the last element, and the middle variable stores all the remaining elements in between, and then display all three variables as output.
 
